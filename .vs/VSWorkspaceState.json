@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\netcoreapp2.2",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp2.2",
+    "\\obj",
+    "\\obj\\Release",
+    "\\obj\\Release\\netcoreapp2.2"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
